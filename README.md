@@ -3,6 +3,8 @@
 This repository demonstrates an issue with eslint's `template-curly-spacing` rule. Specifically, when used with babel-eslint,
 it fails to determine whether there are spaces following `${` inside a template literal in some cases.
 
+See https://github.com/babel/babel-eslint/issues/429.
+
 ### Demo
 
 To demonstrate the bug, run the following:
