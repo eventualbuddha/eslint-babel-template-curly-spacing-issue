@@ -1,5 +1,7 @@
 # eslint-babel-template-curly-spacing-issue
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventualbuddha/eslint-babel-template-curly-spacing-issue.svg)](https://greenkeeper.io/)
+
 This repository demonstrates an issue with eslint's `template-curly-spacing` rule. Specifically, when used with babel-eslint,
 it fails to determine whether there are spaces following `${` inside a template literal in some cases.
 
